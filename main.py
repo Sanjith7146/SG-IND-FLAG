@@ -283,23 +283,3 @@ singapore_flag()
 input()
 clear()
 India_Flag()
-
-
-#######################
-# Presentation script #
-#######################
-'''
-Good morning/afternoon,
-my name is:Sanjith
-Today I'll be presenting my project called:
- <Singapore Flag>
-One of the difficulties I faced was:
- <Creating the cresent and arranging the stars >
-I like my project because:
- <I made this with many figures 
- and I added something new which is the cresent 
- also arranging the stars and cresent was hard.>
-I hope you like my project.
-
-Thank you.
-'''
